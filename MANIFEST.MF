@@ -1,0 +1,2 @@
+Main-Class: IvKeyFetcher
+Class-Path: json-simple-1.1.1.jar
